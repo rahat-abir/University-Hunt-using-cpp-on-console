@@ -1,0 +1,19 @@
+ University   Name                        :Sonargaon University    
+Rank                                                  :76
+Location                                         :147/I, Green Road, Panthopath, Dhaka.
+Vice-Chancellor                         : Professor Dr. Md. Abul Bashar 
+Faculty’s                                        :"B.Sc in Naval Architecture & Marine Engineering,                                                                            
+                                                            (NAME)Bachelor of Architecture(B.Arc),
+                                                             B.Sc in Computer Science & Engineering(CSE),
+                                                             B.Sc in Electrical & Electronics Engineering (EEE),
+                                                            B.Sc in Civil Engineering(CE),
+                                                             B.Sc in Mechanical Engineering(ME),
+                                                            B.Sc in Textile Engineering(TE),
+                                                            B.Sc in Apparel Manufacture & Technology(AMT),
+                                                            LLB(Hon's),Bangla(Hon's).
+Tuition   Fee                                  :1 lakhs to 3 lakhs
+Extra-  facilities                          : IT facilities, 12 hour library facility, and a  network for students “hubs” for academic                                                                                               support.
+Minimum  required  GPA          :5.00
+University website                    :www.su.edu.bd
+
+                                                                                           

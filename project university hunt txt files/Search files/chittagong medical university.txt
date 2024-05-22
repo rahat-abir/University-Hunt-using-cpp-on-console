@@ -1,0 +1,10 @@
+University   Name                                            :Chittagong Medical University.
+Rank                                                                    :109
+Location                                                            :Chittagong.
+Vice-Chancellor                                            :Professor Dr. Md. Ismail Khan. 
+Faculty’s                                                           :Faculty of Medicine,Faculty of Nursing & IHT 
+                                                                               (Institute of Health   Technology).
+Tuition   Fee                                                      :$500.
+Extra-  facilities                                              :
+Minimum  required  GPA                               :9.00
+University website                                         :https://cmu.edu.bd/

@@ -1,0 +1,16 @@
+University   Name                       : North East University Bangladesh
+Rank                                                :111
+Location                                      :Telihaor, Sheikghat, Sylhet, Bangladesh.
+Vice-Chancellor                      :Dr Md Elias Uddin Biswas  
+Faculty’s                                     :Department of Business  Administration,
+ 		                  Department of English
+                                                          Department of Public Health, 
+                                                          Department of Applied Sociology and Social Work,
+	                                      Department of Law and Jusitce,
+                                                          Department of Computer Science and Engineering
+,		                  Department of Environmental   Science and Chemistry ,
+		                  Department of    Mathematics and Informatics  . 
+Tuition   Fee                                :1 lakhs to 3 lakhs
+Extra-  facilities                       :Chemistry Lab, Hardware lab, Internet  Lab, Computer Lab.
+Minimum  required  GPA        :6.00
+University website                   :www.neub.edu.bd

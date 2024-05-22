@@ -1,0 +1,11 @@
+University Name :	  Chittagong University of Engineering & Technology
+Rank :		14
+Location :	Chittagong
+Vice-chancellor :	Prof. Dr. Mohammad Rafiqul Alam
+Faculty's : 		CE,EEE,ME,CSE,ECE,IME,LE,TE,BECM,BME,MSE,ESE,Arch				
+Tution fee : 		1 lac			
+Minimum required GPA : 	9				
+Extra facilities : Central Library,Central Computer Center,Medical Center,Transportation,Guest House,Fabrication Lab,Water Treatment Plant,Waste Management Plant						
+University Website :	https://www.cuet.ac.bd/	
+									
+		

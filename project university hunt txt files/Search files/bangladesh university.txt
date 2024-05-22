@@ -1,0 +1,10 @@
+University   Name                            :Bangladesh University.
+Rank                                                    :91
+Location                                            :15/1, Iqbal Road, Mohammadpur, Dhaka-1207.
+Vice-Chancellor                            :Professor Dr. Anwarul Haque Sharif 
+Faculty’s                                           :Faculty of Business Administration & Economics,Faculty of Science, Engineering and Technology,
+		                       Faculty of Arts, Social Science & Law. 
+Tuition   Fee                                     :1 lakh to 4 lakhs
+Extra-  facilities                             :Clubs,cantine.
+Minimum  required  GPA              :6.00
+University website                        :www.bu.edu.bd

@@ -1,0 +1,16 @@
+University   Name                         :Rangamati Science and Technology University. 
+
+Rank        		                   :100
+Location                                        :Rangamati Science and Technology University, Rangamati Sadar, Rangamati.
+Vice-Chancellor                         :Prof. Dr. Pradanendu Bikash Chakma. 
+Faculty’s                                        :Engineering:
+                                                            Computer Science and Engineering
+                                                           Biological Science
+                                                           Forestry and Environmental Science
+                                                            BBA
+                                                           Tourism and hospitality management
+                                                            Business Management
+Tuition   Fee                                    :12 usd/year.
+Extra-  facilities                           :
+Minimum  required  GPA            :6.50
+University website                       :www.rmstu.edu.bd

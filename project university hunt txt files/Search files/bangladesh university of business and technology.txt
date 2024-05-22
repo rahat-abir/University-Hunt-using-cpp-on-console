@@ -1,0 +1,9 @@
+University Name 	: Bangladesh Univbersity of Business and techonology
+Rank			: 66
+Location		: Mirpur, Rupnagar
+vice-chancellor 	: Muhammed Fayyaz Khan
+Faculty's		: Finance,Management,marketing,accounting,CSE,EEE,mathmatics and statictics,Textile Egn,Civil Egn,English,Economics
+Tution fee		: 4 to 5 lakh BDT
+Extra facitilayes 	: Cantin and wifi, Servers and Realtime website, Software and printing club
+Minimum required Gpa 	: More then 6 with both SCC and HSC
+University Website 	: https://www.bubt.edu.bd/

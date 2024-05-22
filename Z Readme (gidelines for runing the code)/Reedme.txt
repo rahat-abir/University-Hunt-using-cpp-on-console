@@ -1,0 +1,4 @@
+The Folder "project university hunt txt files" must be places in the C drive of your computer in order to Run and work the programe as intended.
+
+
+folder location : "C:\"

@@ -1,0 +1,11 @@
+University Name :	City University
+Rank :		68
+Location :	Savar
+Vice-chancellor :	Professor Dr. Md. Shah-E-Alam
+Faculty's : 		TE,CSE,EEE,CE,Pharmacy,ME,BBA,LLB,English			
+Tution fee : 			3 to 6 lac		
+Minimum required GPA : 	6				
+Extra facilities : 		lab,hostel,playground			
+University Website :		https://www.cityuniversity.edu.bd/
+									
+			

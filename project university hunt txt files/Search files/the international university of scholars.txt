@@ -1,0 +1,12 @@
+University   Name                    :The International University of Scholars
+Rank                                             :128
+Location                                    :F/15, Progoti Sharani, Middle Badda, Gulshan
+                                                        Dhaka,1212 Dhaka,Bangladesh
+Vice-Chancellor                    :Prof. Dr. Md. Abdus Sattar  
+Faculty’s                                   :Computer Science and Engineering,
+                                                       Business Administration,English,Textile Engineering,Electrical and Electronic                                                                                                      	                                   Engineering,
+Tuition   Fee                               : 1 lakhs to 4 lakhs.
+Extra-  facilities                      :English Club,Robotics Club, Computer Society    Club,Business Club,Maritime Club,Media Club,                                                                                                                          Sports Club,MUN Club, Social Club, MBA Club
+                                                       Debate Club,Cultural Club,CCPC (Career Counseling & Placement Cell)
+Minimum  required  GPA      :6.00
+University website                :www.ius.edu.bd

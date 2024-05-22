@@ -1,0 +1,14 @@
+University   Name                             :Hajee Mohammad Danesh Science & Technology University. 
+Rank                                                     :41.
+Location                                            :Hajee Mohammad Danesh Science & Technology University, Dinajpur-5200,Bangladesh.
+Vice-Chancellor                            :Professor Dr. Bidhan Chandra Halder (Routine Duty).  
+Faculty’s                                           :Faculty of Postgraduate, Faculty of Agriculture,Faculty of Computer Science and Engineering,
+                                                               Faculty of  Business Studies,                                                                                
+                                                               Faculty of Fisheries,Faculty of Veterinary & Animal Science,
+                                                               Faculty  of Engineering,
+                                                               Faculty of Science, Faculty of Social Science & Arts.
+Tuition   Fee                                     :12 USD/year.
+Extra-  facilities                             :Library,Medical centre,Halls of residence.
+Minimum  required  GPA              :7.00
+University website                        :www.hstu.ac.bd
+

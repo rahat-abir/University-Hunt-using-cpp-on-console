@@ -1,0 +1,10 @@
+University Name :	Primesia University   
+Rank :		63
+Location :	Dhaka
+Vice-chancellor :	Mesbah Uddin Ahmed
+Faculty's : CSE,EEE, English,Mathmatics,Law,Economics,dept of Religion				
+Tution fee : 3 to 5 lac					
+Minimum required GPA : 	6				
+Extra facilities : 	Computer, Language, Biological and Textile Labs				
+University Website :https://primeasia.edu.bd/	
+			

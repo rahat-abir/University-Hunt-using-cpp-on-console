@@ -1,0 +1,10 @@
+University   Name                            :Pabna University of Science and Technology.
+Rank                                                    :46
+Location                                            :Pabna University of Science and Technology, Rajapur, pabna-6600.
+Vice-Chancellor                            :Professor Dr. M. Rostom Ali.  
+Faculty’s                                           :Faculty of Engineering and Technology,Faculty of Science,Faculty of Business Studies,
+			    Faculty of Humanities and Social Science,Faculty of Life and Earth Science.
+Tuition   Fee                                     :12 USD/year.
+Extra-  facilities                             :Health services,Transportation,Sports and entertainment,Central Library of PUST,Residence facilities.
+Minimum  required  GPA              :7.00
+University website                        :www.pust.ac.bd

@@ -1,0 +1,25 @@
+University   Name                                           :Dhaka University of Engineering & Technology, Gazipur
+Rank                                                                   :48.
+Location                                                           :Dhaka University of Engineering & Technology, Gazipur-1700, Bangladesh.
+Vice-Chancellor                                           : Prof. Dr. Md. Habibur Rahman. 
+Faculty’s                                                          :1) Faculty of Civil Engineering
+                                                                               Department of Civil Engineering (CE)
+                                                                               Department of Architecture (Arch)
+                                                                               (2)Faculty of Electrical and Electronic Engineering
+                                                                               Department of Electrical & Electronic Engineering
+                                                                               Department of Computer Science & Engineering(CSE)
+                                                                              (3) Faculty of Mechanical Engineering
+                                                                               Department of Mechanical Engineering (ME)
+                                                                               Department of Textile Engineering (TE)
+                                                                               Department of Industrial & Production Engineering(IPE)
+                                                                               Department of Chemical and Food Engineering 
+                                                                               Department of Materials and Metallurgical Engineering (MME)
+                                                                              (4) Faculty of Engineering
+                                                                              Department of Chemistry
+                                                                              Department of Mathematics
+                                                                              Department of Physics
+                                                                              Department of Humanities & Social Sciences
+Tuition   Fee                                                     :256-256 USD.
+Extra-  facilities                                             :Halls of residence,Sports facilities.
+Minimum  required  GPA                              :6.00
+University website                                         :www.duet.ac.bd.

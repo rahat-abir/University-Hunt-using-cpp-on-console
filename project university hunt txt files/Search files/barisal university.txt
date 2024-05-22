@@ -1,0 +1,10 @@
+University   Name                            :University of Barisal.
+Rank                                                     :44
+Location                                            :Barisal University, Karnakathi, Barisal Sadar, Barisal.
+Vice-Chancellor                            :Professor Dr. Md. Sadequl Arefin. 
+Faculty’s                                           :Faculty of Science and Engineering,Faculty of Bio-Sciences,Faculty of Arts and Humanities,
+			   Faculty of Social Science,Faculty of Business Studies,Faculty of Law.
+Tuition   Fee                                     :12 USD/year.
+Extra-  facilities                             :Transportation,Medical Center,Sports and entertainment,Library,Skill Development and Social Organizations.
+Minimum  required  GPA              :7.00
+University website                        :www.barisaluniv.edu.bd

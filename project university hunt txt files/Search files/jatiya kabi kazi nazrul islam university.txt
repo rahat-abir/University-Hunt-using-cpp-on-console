@@ -1,0 +1,10 @@
+University   Name                          :Jatiya Kabi Kazi Nazrul Islam University.
+Rank                                                  :51.
+Location                                         :Jatiya Kabi Kazi Nazrul Islam University, Trishal, Mymensingh-2220.
+Vice-Chancellor                         :Professor Dr. AHM Mustafizur Rahman.  
+Faculty’s                                        :Faculty of Science and Engineering,Faculty of Arts,
+			Faculty of Business Administration,Faculty of Social Science.
+Tuition   Fee                                  :12 USD/year.
+Extra-  facilities                          :Residents halls,Health services,Cafeteria,Cultural activities.
+Minimum  required  GPA           :7.00
+University website                     :www.jkkniu.edu.bd.

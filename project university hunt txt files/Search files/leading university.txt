@@ -1,0 +1,12 @@
+University   Name                                        :Leading University
+Rank                                                                 :58
+Location                                                        :Ragibnagar, South Surm Sylhet
+                                                                             3112 Sylhet,Bangladesh
+Vice-Chancellor                                         :Prof. Qazi Azizul Mowla 
+Faculty’s                                                        :CSE,BBA,English,LLB,Architecture,Civil  Engineering,EEE, 
+			               Islamic Studies,BTHM,BANGLA
+Tuition   Fee                                                   :1.5 lakh to 4 lakhs
+Extra-  facilities                                           :Free Wi-Fi Access,Highly Equipped Labs,Extra                           
+                                                                            Curricular Activities,Rich Library
+Minimum  required  GPA                            :6.00
+University website                                      :https://www.lus.ac.bd/

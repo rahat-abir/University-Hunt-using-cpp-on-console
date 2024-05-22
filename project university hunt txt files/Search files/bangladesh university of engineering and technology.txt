@@ -1,0 +1,10 @@
+University Name :	Bangladesh University of Engineering & Technology
+Rank :		2
+Location :	Azimpur,Dhaka
+Vice-chancellor :	  Prof. Dr. Satya Prasad Majumder
+Faculty's : CE,EEE,ME,CSE,MME,BME,LE,TE,BECM,BME,MSE,URP,Arch			
+Tution fee : 		1 lac			
+Minimum required GPA : 	9				
+Extra facilities : Central Library,Central Computer Center,Medical Center,Transportation,Guest House,Fabrication Lab,Water Treatment Plant,Waste Management Plant			
+University Website :	https://www.buet.ac.bd/web/#/
+				
